@@ -62,7 +62,7 @@ padding-bottom:5px ;
     color: brown;
     font-weight: bold;
     border: none;
-    padding: 1% 2% 1%;
+   
     left: 0;
     top: -5%;
 }
@@ -74,7 +74,7 @@ padding-bottom:5px ;
     color: white;
     font-weight: bold;
     border: none;
-    padding: 1% 2% 1%;
+  
     margin:10px 10px 0 0; 
     width: 20%;
 }
@@ -84,7 +84,7 @@ padding-bottom:5px ;
     color: white;
     font-weight: bold;
     border: none;
-    padding: 1% 2% 1%;
+
     left: 0;
 }
 .join{
@@ -93,7 +93,7 @@ padding-bottom:5px ;
     color: white;
     font-weight: bold;
     border: none;
-    padding: 1% 2% 1%;
+ 
     left:0;
 }
   

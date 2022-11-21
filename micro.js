@@ -1,12 +1,10 @@
-const button=document.getElementById("btn");
-const list=document.getElementById("list");
-list.style.display='none';
 
-button.addEventListener("click",(Event)
-=> {
-    if(list.style.dispaly=="none"){
-        list.style.dispaly=="block";
-    }else{
-        list.style.dispaly=="none";
-    }
-})
+function bigImg(x) {
+  x.style.height = "30px";
+  x.style.width = "70px";
+}
+
+function normalImg(x) {
+  x.style.height = "40px";
+  x.style.width = "60px";
+}
